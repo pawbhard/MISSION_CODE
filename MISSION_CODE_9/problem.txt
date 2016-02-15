@@ -1,0 +1,1 @@
+Swap even and odd place bits in an integer

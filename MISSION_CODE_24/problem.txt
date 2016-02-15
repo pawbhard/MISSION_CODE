@@ -1,0 +1,3 @@
+Explain working of malloc with sample program 
+
+learn and write on a paper and send me pic

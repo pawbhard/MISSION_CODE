@@ -1,0 +1,8 @@
+A linklist contain only 0 1 and 2 as data elements 
+
+1->0->0->2->1->->2->0
+
+change this to 
+0->0->0->1->1->->2->2
+
+but change only pointers not data values

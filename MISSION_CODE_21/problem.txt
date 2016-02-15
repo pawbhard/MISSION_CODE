@@ -1,0 +1,13 @@
+Multiply 2 number using add operator and bitwise operators (if needed )
+
+Condition : use minimum number of addition
+
+example 22 * 8 should be done in less than 7 or 6 addition or lower if possible
+
+
+hint : 
+Use of bitwise if needed 
+x >> 1 // this is divide by 2
+x << 1 //this is multiply by 2
+
+Do not google 

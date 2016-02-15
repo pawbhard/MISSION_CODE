@@ -1,0 +1,4 @@
+Longest increasing subsequence 
+using Dynamic programming 
+
+https://github.com/pawbhard/Algorithms/blob/master/DynamicProblems/LongestIncreasingSequence/longestincreasingseq.c

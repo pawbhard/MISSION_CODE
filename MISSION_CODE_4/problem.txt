@@ -1,0 +1,11 @@
+QUICKSORT
+
+Read about Space and TIME comlexity 
+
+Best case  ?????
+Worst case  ????
+Average ?????
+
+progran for refrence 
+
+https://github.com/pawbhard/Algorithms/tree/master/Sorts/QuickSort
